@@ -1,2 +1,4 @@
+rich
+PyInquirer
 selenium
 chromedriver-autoinstaller
